@@ -10,12 +10,12 @@ Dive in to see how I cracked the code of distributed data stores and learned to 
 
 ## 🎯 Table of Contents
 
-  * [🔥 Core Features](https://www.google.com/search?q=%23-core-features)
-  * [💡 My Backend & TypeScript Journey](https://www.google.com/search?q=%23-my-backend--typescript-journey)
-  * [🚀 Run Your Own Redis Clone\!](https://www.google.com/search?q=%23-run-your-own-redis-clone)
-      * [1. Clone & Setup](https://www.google.com/search?q=%231-clone--setup)
-      * [2. Prepare RDB (using Valkey)](https://www.google.com/search?q=%232-prepare-rdb-using-valkey)
-      * [3. Launch Master & Replica](https://www.google.com/search?q=%233-launch-master--replica)
+  * [🔥 Core Features](https://github.com/Dhruvdesai407/Build-Redis?tab=readme-ov-file#-core-features)
+  * [💡 My Backend & TypeScript Journey](https://github.com/Dhruvdesai407/Build-Redis?tab=readme-ov-file#-my-backend--typescript-journey)
+  * [🚀 Run Your Own Redis Clone\!](https://github.com/Dhruvdesai407/Build-Redis?tab=readme-ov-file#-run-your-own-redis-clone)
+      * [1. Clone & Setup](https://github.com/Dhruvdesai407/Build-Redis?tab=readme-ov-file#1-clone--setup)
+      * [2. Prepare RDB (using Valkey)](https://github.com/Dhruvdesai407/Build-Redis?tab=readme-ov-file#2-prepare-rdb-using-valkey)
+      * [3. Launch Master & Replica](https://github.com/Dhruvdesai407/Build-Redis?tab=readme-ov-file#3-launch-master--replica)
 
 -----
 

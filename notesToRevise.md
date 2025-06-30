@@ -1,9 +1,6 @@
 -----
-
+# Notes
 ### 🚀 **Backend Ascendant: OS-Level Deconstruction of My Redis Clone** 🚀
-
-This project wasn't just code; it was a **surgical excavation** into the core mechanics of high-performance, fault-tolerant distributed systems. I *personally* unveiled the **unseen forces** orchestrating our digital world. 🔥
-
 -----
 
 #### 1\. **Network Fabric: Kernel's Choreography & Master-Level Socket Dynamics** 💃

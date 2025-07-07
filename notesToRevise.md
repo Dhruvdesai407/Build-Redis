@@ -1,6 +1,6 @@
 -----
 # Notes
-### 🚀 **Backend Ascendant: OS-Level Deconstruction of My Redis Clone** 🚀
+### 🚀 **Socket, Backend, DB (learnings from the project)** 🚀
 -----
 
 #### 1\. **Network Fabric: Kernel's Choreography & Master-Level Socket Dynamics** 💃

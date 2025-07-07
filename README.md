@@ -1,6 +1,6 @@
 -----
 
-# ✨ My Redis Clone: From Zero Backend to Replication Architect\! 🚀
+# ✨ My Redis Clone: From Zero Backend to Replication Architect \! 🚀
 
 Ever wondered how lightning-fast apps are built? I did. So I built a **Redis clone from scratch**, diving headfirst into TypeScript with zero prior backend experience. This project isn't just code; it's the story of my transformation into a backend builder. 🤯
 
